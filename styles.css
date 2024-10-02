@@ -1,0 +1,56 @@
+h1 {
+    color: rgba(0, 255, 225, 0.921);
+
+}
+
+
+.acc {
+color: bisque;
+
+}
+
+
+.xp {
+    color: brown;
+
+}
+
+
+.con {
+    color: blue;
+
+}
+
+#superimage {
+    width: 200px;
+    height: 200px;
+    
+}
+
+#superbouton {
+    background-color: rgba(0, 0, 0, 0.604);
+    color: red;
+    margin: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 8px;
+}
+
+#superbouton:hover {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 0, 0);
+    cursor: pointer;
+    border-color: red;
+}
+
+#superbouton:active {
+    color: rgb(191, 160, 160);
+    background-color: rgb(148, 152, 148);
+    cursor: pointer;
+    border-color: red;
+}
+
+
+
